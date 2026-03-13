@@ -62,9 +62,8 @@ The dataset contains the following columns:
 
 Clone the repository:
 
-```
 git clone https://github.com/shahlaparakkottil/SPORTBOT-AI.git
-```
+
 
 Navigate to the project directory:
 
