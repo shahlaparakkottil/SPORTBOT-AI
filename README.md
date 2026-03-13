@@ -67,15 +67,13 @@ git clone https://github.com/shahlaparakkottil/SPORTBOT-AI.git
 
 Navigate to the project directory:
 
-```
 cd SPORTBOT-AI
-```
+
 
 Install required libraries:
 
-```
 pip install pandas scikit-learn numpy
-```
+
 
 ## Running the Chatbot
 
